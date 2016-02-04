@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-localstorage-adapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A localstorage adapter for ember data that is compatible with ember 2.x",
   "directories": {
     "doc": "doc",
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/eibrahim/ember-cli-localstorage-adapter",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Emad Ibrahim",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
