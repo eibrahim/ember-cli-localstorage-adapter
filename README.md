@@ -15,4 +15,4 @@ Theoritically, you should be able to swap out the adapter with a real api adapte
 Use ember data as you usually do.  No need to configure or do anything.
 
 ## Contact
-You can reach  me on twitter at [http://twitter.com/eibrahim](@eibrahim) or by email at eibrahim at gmail.com
+You can reach  me on twitter at [@eibrahim](http://twitter.com/eibrahim) or by email at eibrahim at gmail.com
