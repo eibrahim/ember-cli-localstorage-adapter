@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-localstorage-adapter",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A localstorage adapter for ember data that is compatible with ember 2.x",
   "directories": {
     "doc": "doc",
