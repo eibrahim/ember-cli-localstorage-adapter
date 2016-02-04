@@ -325,7 +325,8 @@ default Adapter.extend({
        * In this case, cart belongsTo customer and its id is present in the
        * main payload. We find each of these records and add them to _embedded.
        */
-      if (relationEmbeddedId && DS.LSAdapter.prototype.isPrototypeOf(adapter)) {
+      //if (relationEmbeddedId && DS.LSAdapter.prototype.isPrototypeOf(adapter)) {
+      if (relationEmbeddedId) {
         recordPromise = recordPromise.then(function(recordPayload) {
           var promise;
           if (relationType === 'belongsTo' || relationType === 'hasOne') {
