@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-localstorage-adapter",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "A localstorage adapter for ember data that is compatible with ember 2.x",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -38,7 +38,10 @@
     "ember-try": "~0.0.8"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "localstorage",
+    "adapter",
+    "ember-data"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5"

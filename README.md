@@ -1,26 +1,16 @@
 # Ember-cli-localstorage-adapter
 
-This README outlines the details of collaborating on this Ember addon.
+This plugin is pretty much a port from [https://github.com/locks/ember-localstorage-adapter](https://github.com/locks/ember-localstorage-adapter) just modified to work with ember cli and 2.x.
+
+## Reason
+I am always trying to prototype app or concepts very quickly without the need for a server or an API.  I just work on the UI concepts to flush them out.  This lets me iterate very quickly on the frontend without having to worry about the backend but it also persists the data, so I am not contstantly repopulating data while developing.  Theoritically, you should be able to swap out the adapter with a real api adapter without having to change anything.
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `ember install ember-cli-localstorage-adapter`
 
-## Running
+## Usage
+Use ember data as you usually do.  No need to configure or do anything.
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+## Contact
+You can reach  me on twitter at [http://twitter.com/eibrahim](@eibrahim) or by email at eibrahim at gmail.com
