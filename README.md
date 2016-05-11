@@ -16,3 +16,6 @@ Use ember data as you usually do.  No need to configure or do anything.
 
 ## Contact
 You can reach  me on twitter at [@eibrahim](http://twitter.com/eibrahim) or by email at eibrahim at gmail.com
+
+## Shameless Plug
+Upgrade your ember skills and (rapidly build web apps)[http://ember.rocks]
