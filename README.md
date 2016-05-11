@@ -2,6 +2,9 @@
 
 This plugin is pretty much a port from [https://github.com/locks/ember-localstorage-adapter](https://github.com/locks/ember-localstorage-adapter). I just modified it to work with ember 2.x.
 
+## Deprecation
+I created this because at at the time https://github.com/locks/ember-localstorage-adapter was not compatible with 2.x but it looks like it has been upgraded.  Consider this repo deprecated and use https://github.com/locks/ember-localstorage-adapter instead.  Thanks.
+
 ## Reason
 I am always trying to prototype apps or concepts very quickly without the need for a server or an API.  I just work on the UI concepts to flush them out.  This lets me iterate very quickly on the frontend without having to worry about the backend but it also persists the data, so I am not contstantly repopulating data while developing.
 
